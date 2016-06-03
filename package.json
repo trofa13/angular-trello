@@ -1,0 +1,23 @@
+{
+  "name": "angular-trello",
+  "version": "0.0.1",
+  "description": "This is just my tryouts with angular anf so on",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trofa13/angular-trello.git"
+  },
+  "keywords": [
+    "angular",
+    "trello"
+  ],
+  "author": "Trofim Samusev trofa13@inbox.ru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trofa13/angular-trello/issues"
+  },
+  "homepage": "https://github.com/trofa13/angular-trello#readme"
+}
